@@ -1,7 +1,7 @@
 # Projeto de Robótica – Robô Puppy
 - Projeto desenvolvido na disciplina de Robótica, do 7º semestre da Faculdade Impacta, sob orientação do Professor Gustavo Molina.
 
-## Descrição do Projeto
+# Descrição do Projeto
 - O Robô Puppy é um projeto acadêmico criado com o objetivo de aplicar, na prática, os conceitos fundamentais de robótica, automação e programação estudados em sala de aula. O robô simula o comportamento de um cachorro robótico, sendo capaz de executar movimentos e reações a partir de comandos e sensores, promovendo uma abordagem prática e didática no aprendizado.
 Durante o desenvolvimento do projeto, foram trabalhados temas como lógica de programação, integração entre hardware e software, controle de atuadores, leitura de sensores e testes de funcionamento do sistema como um todo.
 O projeto reforça a importância do trabalho em equipe, da experimentação e da resolução de problemas reais no contexto da engenharia e tecnologia aplicada.
