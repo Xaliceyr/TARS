@@ -1,4 +1,8 @@
-RAFAEL DOS SANTOS CORREA DE ALMEIDA - 2301022
-RAFAELA BATISTA E SOUSA - 2300444
-CARLOS HENRIQUE BONFIM DA SILVA - 2301776
-GUILHERME MENDES GENGO - 2301760
+# Projeto de Robóbica
+# Faculdade Impacta - 7º Semestre
+
+# Grupo Tars
+- Carlos Henrique Bonfim da Silva - RA: 2301776
+- Guilherme Mendes Gengo - RA: 2301760
+- Rafael dos Santos Correa de Almeida - RA: 2301022
+- Rafaela Batista de Sousa - RA: 2300444
