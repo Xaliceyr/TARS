@@ -1,5 +1,5 @@
 # Projeto de Robóbica
-# Faculdade Impacta - 7º Semestre
+- Faculdade Impacta - 7º Semestre
 
 # Grupo Tars
 - Carlos Henrique Bonfim da Silva - RA: 2301776
