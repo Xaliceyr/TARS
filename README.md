@@ -25,7 +25,7 @@ O projeto reforça a importância do trabalho em equipe, da experimentação e d
 - Semestre: 7º
 - Professor: Gustavo Molina
 
-# Integrantes do Grupo – Grupo Tars
+# Integrantes do Grupo Tars
 - Carlos Henrique Bonfim da Silva - RA: 2301776
 - Guilherme Mendes Gengo - RA: 2301760
 - Rafael dos Santos Correa de Almeida - RA: 2301022
